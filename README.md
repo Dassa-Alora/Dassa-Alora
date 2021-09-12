@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cassie aka @Dassa-Alora
 - 👀 I’m interested in writing science fiction and fantasy stories. I also enjoy playing Dungeons and Dragons as well as a variety of tabletop and video games.
-- 🌱 I’m currently learning about GitHub...? ¯\_(ツ)_/¯
-- 💞️ I’m looking to collaborate on anything that is not programming. Maybe doing some quality assurance? 
+- 🌱 I’m currently learning about Markdown.
+- 💞️ I’m looking to collaborate on Markdown documentation 
 - 📫 How to reach me dassa.alora@gmail.com
 
 <!---
